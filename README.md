@@ -9,7 +9,7 @@
 
 ## 🎥 Demo
 <div align="center">
-    <img src="/demo/demo_01.mp4" width="520" height="410" hspace="20" vspace="20"/>  
+    <img src="/demo/demo_1.gif" width="820" height="auto" hspace="20" vspace="20"/>  
 </div>
 
 ## 🚀 Tecnologias
